@@ -55,9 +55,6 @@ chmod +x ./0-main.py
 ./0-main.py
 ```
 
-### :heavy_check_mark: Solution.
-> [:point_right: Go to 1-promise.js](1-promise.js)
-
 # :books: References
 1. [Pascal's Triangle](https://www.cuemath.com/algebra/pascals-triangle/)
 2. [Python Lists](https://www.w3schools.com/python/python_lists.asp)
