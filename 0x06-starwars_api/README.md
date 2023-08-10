@@ -1,5 +1,9 @@
 # Star Wars API
 
+- Algorithm
+- API
+- JavaScript
+
 This project contains interview coding challenges.
 
 ```bash
